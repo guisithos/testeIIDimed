@@ -1,3 +1,5 @@
+//OBS: Nao entendi perfeitamente bem a questao, acredito que se tratava de uma pesquisa binaria
+//o que realizei faz a leitura da array dada e apenas devolve os inputs mais proximos a ela mesmo. 
 
 import java.lang.*;
 import java.util.Scanner;
